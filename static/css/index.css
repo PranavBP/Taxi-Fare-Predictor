@@ -1,0 +1,48 @@
+/* Set the background color of the page to black */
+body {
+    background-color: #5A5A5A;
+  }
+  
+  /* Set the text color of the table headings to Material green */
+  thead th {
+    color: #008F5A;
+  }
+  
+  /* Set the background color of the table headings to black */
+  thead {
+    background-color: #21201E;
+  }
+  
+  /* Set the background color of the table rows to dark grey */
+  tbody tr {
+    background-color: #333;
+  }
+  
+  /* Set the text color of the table rows to white */
+  tbody td {
+    color: #808080;
+  }
+  
+  /* Set the color of the scrollbar to Material green */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #333;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #4CAF50;
+  }
+
+  h4 {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    position: relative;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 30px;
+    color: #ddd;
+    text-shadow: 3px 3px 10px #5A5A5A;
+  }
+  
